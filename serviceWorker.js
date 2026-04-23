@@ -1,1 +1,1 @@
-// Service worker code here
+// Your updated serviceWorker.js content with auto referrer data
